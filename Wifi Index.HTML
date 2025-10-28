@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Free Wi-Fi Access</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f5f5f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 500px;
+      margin: 60px auto;
+      background: white;
+      border-radius: 20px;
+      padding: 25px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 { color: #0078D7; }
+    iframe {
+      width: 100%;
+      height: 400px;
+      border: none;
+    }
+    p {
+      font-size: 12px;
+      color: gray;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to Our Free Wi-Fi</h1>
+    <p>Please fill in your details to get connected.</p>
+
+    <!-- Paste your Google Form embed code below -->
+    <<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdD1kgcYTBZ4iCZmG8ZWfcXBU48hVhmfdw5mWqRrY6gehMRYA/viewform?embedded=true" width="640" height="419" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>>
+
+    <p>By connecting, you agree to receive updates from us.</p>
+  </div>
+</body>
+</html>
